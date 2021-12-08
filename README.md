@@ -8,8 +8,8 @@ P : Stop music
 ### Change environment :
 W : Previous environment <br />
 X : Next environment <br />
+<br/>
 A : Show/Hide snow particles <br /> 
-<br />
 Z : Show/Hide leaves particles <br />
 E : Show/Hide Spot particles
 
